@@ -47,10 +47,22 @@
 ---
 
 ### 📊 Estadísticas de GitHub
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EliSLopezM&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&cache_seconds=1800" alt="github stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EliSLopezM&layout=compact&theme=tokyonight&cache_seconds=1800" alt="top languages"/>
-</p>
+
+<div align="center">
+
+  <!-- Card: activity -->
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=EliSLopezM&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&cache_seconds=1800"
+    alt="GitHub stats de Eli"
+    width="500" />
+
+  <!-- Card: top languages -->
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=EliSLopezM&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=1800"
+    alt="Lenguajes más usados de Eli"
+    width="500" />
+
+</div>
 
 ---
 
