@@ -1,13 +1,12 @@
-
-<h1 align="center">Hola 👋, soy Eli Santiago Lopez Mahecha</h1>
+<h1 align="center">Hola 👋, soy Eli Santiago Lopez (puedes decirme Eli)</h1>
 <h3 align="center">Ingeniero de Sistemas | Desarrollador Full Stack | Entusiasta de la Ciberseguridad</h3>
 
 ---
 
 ### 👨‍💻 Sobre mí
 - 🚀 Apasionado por el desarrollo de software, la innovación y la tecnología.  
-- 📊 Manejo de **estadísticas y análisis de datos**.  
-- 🌱 Siempre aprendiendo y mejorando en **ciberseguridad, frameworks modernos y cloud**.  
+- 📊 Experiencia en **estadísticas y análisis de datos**.  
+- 🌱 En aprendizaje continuo de **ciberseguridad, frameworks modernos y cloud**.  
 - 🤝 Abierto a colaborar en proyectos de **frontend, backend y no-code**.  
 
 ---
@@ -49,19 +48,19 @@
 
 ### 📊 Estadísticas de GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EliSantiagoLopez&show_icons=true&theme=dark" alt="github stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EliSantiagoLopez&layout=compact&theme=dark" alt="top languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=EliSLopezM&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&cache_seconds=1800" alt="github stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EliSLopezM&layout=compact&theme=tokyonight&cache_seconds=1800" alt="top languages"/>
 </p>
 
 ---
 
 ### 🌐 Conecta conmigo
 <p align="left">
-  <a href="https://www.linkedin.com/in/elisantiagolopezmahecha" target="_blank">
+  <a href="https://co.linkedin.com/in/eli-santiago-lopez-mahecha-56a9861b9" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-333?logo=linkedin&logoColor=0A66C2" />
   </a>
 </p>
 
 ---
-⭐️ From [Eli Santiago Lopez Mahecha](https://github.com/EliSantiagoLopez)
 
+⭐️ From [Eli Santiago Lopez Mahecha](https://github.com/EliSLopezM)
