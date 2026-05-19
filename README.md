@@ -78,12 +78,14 @@
 
 ### 📊 Estadísticas de GitHub
 
-### 📊 Estadísticas de GitHub
-
 <div align="center">
   <img
-    src="https://streak-stats.demolab.com?user=EliSLopezM&theme=tokyonight&hide_border=true"
+    src="https://streak-stats.demolab.com?user=EliSLopezM&theme=tokyonight&hide_border=true&date_format=Y"
     alt="GitHub streak de Eli"
+    height="165" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=EliSLopezM&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true"
+    alt="GitHub stats de Eli"
     height="165" />
 </div>
 
