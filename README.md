@@ -78,14 +78,12 @@
 
 ### 📊 Estadísticas de GitHub
 
+### 📊 Estadísticas de GitHub
+
 <div align="center">
   <img
     src="https://streak-stats.demolab.com?user=EliSLopezM&theme=tokyonight&hide_border=true"
     alt="GitHub streak de Eli"
-    height="165" />
-<img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=EliSLopezM&theme=tokyonight"
-    alt="Lenguajes más usados"
     height="165" />
 </div>
 
